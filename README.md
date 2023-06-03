@@ -1,16 +1,16 @@
-### Hi there 👋
+About me
+--------------------------
 
-<!--
-**Vuk77/Vuk77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome, my name is **Ognjen Letić** 👋 - I'm Software Engineer Student that is interested in building exciting projects.
 
-Here are some ideas to get you started:
+*   🌍  I'm currently living in Germany
+*   📂  Here you can see some of my <a target="_blank" rel="noreferrer" href='https://github.com/Vuk77?tab=repositories'>projects</a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools
+--------------------------
+
+<p align="left">
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=cs,js,css,html,github,linux" />
+  </a>
+</p>
