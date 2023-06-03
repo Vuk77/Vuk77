@@ -24,11 +24,11 @@ Tools
   </a>
 </p>
 
-Tools
+OS
 --------------------------
 
 <p align="left">
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
+    <img src="https://skillicons.dev/icons?i=linux" />
   </a>
 </p>
