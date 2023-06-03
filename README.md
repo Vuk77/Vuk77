@@ -32,3 +32,5 @@ OS
     <img src="https://skillicons.dev/icons?i=linux" />
   </a>
 </p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Vuk77&count_private=true&show_icons=true&hide_title=true" alt="Vuk77" />
