@@ -1,7 +1,7 @@
 About me
 --------------------------
 
-Welcome, my name is **Ognjen Letić** 👋 - I'm a passionate Software Engineer Student that is interested in building exciting projects.
+Welcome, my name is **Ognjen Letić** 👋 - I'm a passionate Software Engineer student that is interested in building exciting projects.
 
 *   🌍  I'm currently living in Germany
 *   📂  Here you can see some of my <a href='https://github.com/Vuk77?tab=repositories'>projects</a>.
